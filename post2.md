@@ -18,4 +18,10 @@ It was a beautifully designed product, peering into the future of what audio-on-
 
 ## Article - User-Centered Design
 
-(I'm currently writing this section.)
+I find the epiphany that Don had about everyday objects interesting. The way that our brains develop a map between design features and functionality, allowing us to easily identify various objects without even realizing it. Don Norman believed that form follows function. Discoverability is the most important.
+
+Discoverability is driven by a feedback loop. A user observes a new interface, identifies characteristics ("affordances") and hints ("signifiers"), and uses that to mentally build a map between the interface and its underlying functionality. In doing so, the user is rewarded with feedback which (A) communicates what resulted from their action, (B) validates their conceptual model, and (C) sparks curiosity and encourages further exploration.
+
+This is successful because it transforms the user's role from a chore to an experience. Achieving and maintaining this positive feedback loop engages the user and allows them to quickly take full advantage of the interface. Unfortunately, this can be hard to achieve. I find a common issue is that products dump users into a swarm of features, presenting everything you have to offer at once. The feedback loop relies on the user being able to focus on only one or two things at a time, use the knowledge to build their conceptual model, and then move on from their. However, this turns into a balancing act. You want to gradually show the user new features, but you also don't want to hold back users that want to learn quickly.
+
+If I get a device, knowing ahead of time what it can do, I probably have some idea of how I want to use it, and what I want to do with it. So, when I start using it, I'm going to be looking for particular things I'm interested in, and I don't want to be hand-held through a long winding maze before I finally get to the feature I want. Guiding someone through a maze doesn't make it any less of a maze.
