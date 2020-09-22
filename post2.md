@@ -15,3 +15,7 @@ The iPhone Bluetooth Headset was discontinued a short two years after its launch
 It was a beautifully designed product, peering into the future of what audio-on-the-go would look like. It would just take a decade to get there. This became possible though gradual improvements in the iPhone's capabilities, the capabilities of related technologies (Bluetooth, music/audio streaming, etc), and further iteration on the iPod headset that the iPhone Bluetooth Headset was based on.
 
 > You have to work your way up, and realize it's the small incremental things that really do matter.
+
+## Article - User-Centered Design
+
+(I'm currently writing this section.)
