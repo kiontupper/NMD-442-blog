@@ -1,4 +1,4 @@
-# Week 2 - Empathetic Design and Dark UX Patterns
+# Post 1 - Empathetic Design and Dark UX Patterns
 
 Two questions for this week:
 
