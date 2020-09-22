@@ -15,15 +15,3 @@ The iPhone Bluetooth Headset was discontinued a short two years after its launch
 It was a beautifully designed product, peering into the future of what audio-on-the-go would look like. It would just take a decade to get there. This became possible though gradual improvements in the iPhone's capabilities, the capabilities of related technologies (Bluetooth, music/audio streaming, etc), and further iteration on the iPod headset that the iPhone Bluetooth Headset was based on.
 
 > You have to work your way up, and realize it's the small incremental things that really do matter.
-
----
-
-After this discussion, he talks about the interactions between designers and executives/management. In order to sell an idea to a manager, a the manager needs to see the added value for both the customer and the company.
-
-> When you're a designer, who's your customer? ... It's actually not your boss. It's the boss of your boss... Your job is to understand the business of the company, and to help the company be successful.
-
-Don discusses his experience at Apple, and notes that every person working for a company sees what they're doing and thinks it's the most important thing in the world at that time. Afterall, why else would they be doing it? But it's also important (and easy to forget) to take a step back, branch out from your own limited perspective, and really think about what's important for the company. Design thinking helps you step back and look at the bigger picture.
-
----
-
-Another point which I agree strongly with is to avoid looking specifically at the identity of a person. Instead, your design should revolve around what activities they want to do, not how society groups them with other people. For example, an older retired person probably doesn't want an old "granny car." They probably want something they can take across the country and do whatever they want with their newfound time and money.
