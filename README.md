@@ -18,4 +18,4 @@
 
 ## Miscellaneous
 
- 1. [Questions - Empathetic Design and Dark UX Patterns](https://kiontupper.github.io/NMD-442-blog/questions1)
+ - [Questions - Empathetic Design and Dark UX Patterns](https://kiontupper.github.io/NMD-442-blog/questions1)
