@@ -14,7 +14,7 @@ As mentioned, the design thinking section is very informative and concise. In re
   <dt>Empathy</dt>
   <dd>Empathy allows you to place yourself in the perspective of the user. It's important to develop a scenario of a user who has never downloaded or heard of your product before. What should be the first thing they see? How will you introduce them to your product? How will you distinguish yourself before they lose interest? Once they've decided to use your product, how will you show how to use it? How will you encourage discovery? These are all things that require a designer to remove themself from the perspective of the company, and instead adopt the perspective of a consumer.</dd>
   <dt>Schemas</dt>
-  <dd></dd>
+  <dd>Schemas can be very useful to a UX designer. They allow you to build on a user's existing expectations. But it's also important to realize that you, as a designer, have your own schemas. Even worse, these schemas are likely vastly different from that of your actual user. So while they can be advantageous to leverage, it's important not to get trapped in them. Sometimes, it's necessary to just start from scratch and come up with an entirely new solution to a problem. This is one of the more difficult aspects of design, since it's easy to remain stuck in what you already expect in your design.</dd>
  </dl>
 
 Schemas are of note here, because I do think that trying to reinvent the wheel is an easy trap to fall into. Snapchat is a grade-A citizen of ignoring the rules and established expectations and doing whatever the heck you want.
