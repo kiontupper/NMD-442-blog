@@ -10,7 +10,7 @@
 ## Guest Speakers
 
  1. [Steven Crowley](https://kiontupper.github.io/NMD-442-blog/speaker1)
- 2. [Zev](https://kiontupper.github.io/NMD-442-blog/speaker2)
+ 2. [Zev Eisenberg](https://kiontupper.github.io/NMD-442-blog/speaker2)
 
 ## _The Design of Everyday Things_
 
