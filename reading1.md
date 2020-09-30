@@ -14,5 +14,19 @@ As mentioned, the design thinking section is very informative and concise. In re
   <dt>Empathy</dt>
   <dd>Empathy allows you to place yourself in the perspective of the user. It's important to develop a scenario of a user who has never downloaded or heard of your product before. What should be the first thing they see? How will you introduce them to your product? How will you distinguish yourself before they lose interest? Once they've decided to use your product, how will you show how to use it? How will you encourage discovery? These are all things that require a designer to remove themself from the perspective of the company, and instead adopt the perspective of a consumer.</dd>
   <dt>Schemas</dt>
-  <dd>Trying to reinvent the wheel is an easy trap to fall into. Snapchat is a grade-A citizen of ignoring the rules and established expectations and doing whatever the heck you want. Well here's an open letter to Snap: <i>For all of mankind, </i><b><i>please</i> read the design guidelines for each platform. Read <a href='https://developer.apple.com/design/human-interface-guidelines/ios/'>Apple's</a> for iOS, and <a href='https://material.io/design'>Google's</a> for Android.</b> And if anybody tells you it's harder to use standard system interface elements, grab a fire extinguisher for the pants that are on fire.</dd>
+  <dd></dd>
  </dl>
+
+Schemas are of note here, because I do think that trying to reinvent the wheel is an easy trap to fall into. Snapchat is a grade-A citizen of ignoring the rules and established expectations and doing whatever the heck you want.
+
+> **Open letter to Snapchat:** _For all of mankind,_ **_please_ read the design guidelines for each platform. Read [Apple's](https://developer.apple.com/design/human-interface-guidelines/ios/) for iOS, and [Google's](https://material.io/design) for Android.**
+
+Diverging too far from the status quo disobeys preexisting expectations trained over several years of a user using a particular platform. If a problem has already been solved many times, don't try to solve it again unless you have something objectively better to bring to the table. A well-designed designed uses the user's preexisting knowledge where possible, and gradually builds on it for areas where the product is unique. Trying to be too "out-of-the-box" can bring too much attention to the areas that don't need it and distract designers, developers, and users from what really makes the product useful.
+
+The points discussed in this section are quite valid, and out-of-the-box thinking is really a driver for innovation. I just would like to have seen a little more on being careful not to diverge too far from the user's assumptions and expectations.
+
+## Questions
+
+ - How can you tell that a problem really needs a new solution? How do you identify a fatal flaw in an existing design pattern and redesign it, without also trying to reinvent the wheel?
+ - How much of a UX designer's day is actually spent modelling user interfaces? Is it mostly theory and ideation? Or is a typical work week dominated by UI sketches and mockups?
+ - How can a UX designer tell when they're getting carried away? How do you stop yourself from getting lost in the details or from reinventing the wheel?
