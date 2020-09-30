@@ -1,4 +1,4 @@
-# Zev
+# Zev Eisenberg
 
 I quickly became fascinated by the way [BlindWays](https://www.raizlabs.com/blog/2016/12/altconf-2016-user-centered-approach-solving-micronavigation-blind/) works with built-in device features to create an accessible experience for blind people.
 
