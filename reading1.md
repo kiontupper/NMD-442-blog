@@ -19,7 +19,7 @@ As mentioned, the design thinking section is very informative and concise. In re
 
 Schemas are of note here, because I do think that trying to reinvent the wheel is an easy trap to fall into. Snapchat is a grade-A citizen of ignoring the rules and established expectations and doing whatever the heck you want.
 
-> Open letter to Snapchat: _For all of mankind,_ **_please_ read the design guidelines for each platform. Read [Apple's](https://developer.apple.com/design/human-interface-guidelines/ios/) for iOS, and [Google's](https://material.io/design) for Android.**
+> Open letter to Snapchat: _For all of mankind, **please** read the design guidelines for each platform. Read [Apple's](https://developer.apple.com/design/human-interface-guidelines/ios/) for iOS, and [Google's](https://material.io/design) for Android._
 
 Diverging too far from the status quo disobeys preexisting expectations trained over several years of a user using a particular platform. If a problem has already been solved many times, don't try to solve it again unless you have something objectively better to bring to the table. A well-designed designed uses the user's preexisting knowledge where possible, and gradually builds on it for areas where the product is unique. Trying to be too "out-of-the-box" can bring too much attention to the areas that don't need it and distract designers, developers, and users from what really makes the product useful.
 
