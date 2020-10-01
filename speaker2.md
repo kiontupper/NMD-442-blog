@@ -29,5 +29,3 @@ There are three limitations with BlindWays that I noticed. This is no fault of t
 I've started thinking about an app that uses a different device feature for directions: haptic feedback. Modern devices can very precisely "tap" a device the user is holding. My idea is that an app could use taps to signal the user which way to walk. When they're walking on a path, the device can tap at a constant rate (perhaps 1/second) to remind the user they're going in the right direction. When there's a turn, a double-tap indicates a significant change in direction. A triple-tap can indicate a road crossing. At that point, regular tapping pattern will go faster when the user is facing the wrong direction, and gradually slow down as they aim the device, so they can find the correct direction to walk. This is much less ambigious than a simple "left" or "right."
 
 Anyway, I'm still developing the idea, but once I'm done writing this, I'm going start developing a prototype to see if this idea works in practice.
-
-> **Side note:** The rest of my blog links are currently broken. I'm working on reorganizing my blog and everything will be working again by Thursday.
