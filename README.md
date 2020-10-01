@@ -14,7 +14,10 @@
 
 ## _The Design of Everyday Things_
 
- 1. [The psychopathology of everyday things](https://kiontupper.github.io/NMD-442-blog/chapter1)
+My copy of _The Design of Everyday Things_ is still in the mail. It's expected to arrive on 10/7.
+
+<!-- 1. [The psychopathology of everyday things](https://kiontupper.github.io/NMD-442-blog/chapter1) -->
+ 1. ~The psychopathology of everyday things~
 
 ## Miscellaneous
 
