@@ -6,10 +6,7 @@
  2. [Tim Brown on Design Thinking](https://kiontupper.github.io/NMD-442-blog/reading2)
  3. [Dark UX Design Patterns](https://kiontupper.github.io/NMD-442-blog/reading3)
  4. [Don Norman on Design Thinking and User-Centered Design](https://kiontupper.github.io/NMD-442-blog/reading4)
-
-## Blog Reactions
-
- 1. [Haley Nelson — UX Research (& Anthropology, compassion, and ego)](https://kiontupper.github.io/MND-442-blog/blog1)
+ 5. [UX Research](https://kiontupper.github.io/MND-442-blog/reading5)
 
 ## Guest Speakers
 
