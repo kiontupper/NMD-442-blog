@@ -1,6 +1,20 @@
 # Dark UX Design Patterns
 
-Looking at the thumbnail of the TechCrunch article immediately reminds me of the short-lived [GDPR hall of shame](https://web.archive.org/web/20180623153852/https://gdprhallofshame.com/), a blog which lasted for 22 posts listing examples of shady practices exposed by the EU [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) from 2018.
+Reading the TechCrunch article, I especially found the mentioning of intentional design friction interesting. Design turns evil when the company's interest conflicts with that of the user. If a user doesn't want to consent to certain things, the easiest thing to do is make it harder for them to opt-out.
+
+I actually find Facebook's aquisition of WhatsApp infuriating. WhatsApp's purpose was private, secure communication. People who used WhatsApp used it becuase it was more secure and private than other options. Facebook stepped in and took advantage of those users' trust in order to feed more data into their platform in a move that throws the notion of privacy and ethics out into the wind.
+
+Another major issue is this:
+
+![](https://techcrunch.com/wp-content/uploads/2018/04/screen-shot-2018-04-25-at-1-01-35-pm.png)
+
+Does this make it clear that Facebook uses this facial recognition in order to track what photos you appear in, even when they have no association with your account, in order to track your interactions, cross reference common interests, and target advertising based on how your interests might be similar to your friends'? No, it does not. It manipulates you into opting in for fear of being impersonated. As if that's why Facebook _really_ developed the feature.
+
+One thing I disagree with about the article is the argument it makes about having a brightly colored button and a plain one. If your "opt-out" link is somewhere else nowhere near the highlighted "yes" button (see Windows section below), then this point is 100% valid.
+
+But when done properly, with the opt-out right next to the opt-in, and the opt-in being the one that's highlighted, it complements the user's expectation that the highlighted button is "yes" and the other one is "no." When a screen asks "Do you want to enable this feature?" I believe it intuitively follows that the highlighted button says "yes I do," and the plain one says "no I don't." It would actually be even more confusing to highlight the "opt-out" button, and it would just be annoying if neither were highlighted. Users expect to be able to navigate a screen at a glace, so making them pay special attention to what each button says and will actually do slows things down. Just highlight the "yes," leave the "no" plain, and make sure they're next to each other.
+
+Looking at the thumbnail of the article immediately reminds me of the short-lived [GDPR hall of shame](https://web.archive.org/web/20180623153852/https://gdprhallofshame.com/), a blog which lasted for 22 posts listing examples of shady practices exposed by the EU [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) from 2018.
 
 A few highlights:
 
