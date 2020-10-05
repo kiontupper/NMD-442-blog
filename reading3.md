@@ -69,7 +69,7 @@ This is a change Microsoft made _after the fact_. When Windows 10 first came out
 
 ---
 
-Oh, and Microsoft requires you to sign your device into an account anyway to use many features like the Microsoft Store. It's true that this is typical among competitors, at least they don't replace your separate login password with your most cherished and secret one.
+Oh, and Microsoft requires you to sign your device into an account anyway to use many features like the Microsoft Store. It's true that this is typical among competitors, but at least they don't replace your separate login password with your most cherished and secret one.
 
 Oh wait—
 
