@@ -1,4 +1,6 @@
-# UX Research
+# UX Design Research
+
+Three articles on UX design research:
 
 ## The Complete Guide to UX Research Methods
 
