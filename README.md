@@ -7,6 +7,7 @@
  3. [Dark UX Design Patterns](https://kiontupper.github.io/NMD-442-blog/reading3)
  4. [Don Norman on Design Thinking and User-Centered Design](https://kiontupper.github.io/NMD-442-blog/reading4)
  5. [UX Research](https://kiontupper.github.io/NMD-442-blog/reading5)
+ 6. [UX Case Studies and Personas](https://kiontupper.github.io/NMD-442-blog/reading6)
 
 ## Guest Speakers
 
