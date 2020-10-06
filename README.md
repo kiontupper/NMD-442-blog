@@ -18,7 +18,3 @@ My copy of _The Design of Everyday Things_ is still in the mail. It's expected t
 
 <!-- 1. [The psychopathology of everyday things](https://kiontupper.github.io/NMD-442-blog/chapter1) -->
  1. <strike>The psychopathology of everyday things</strike>
-
-## Miscellaneous
-
- - [Questions - Empathetic Design and Dark UX Patterns](https://kiontupper.github.io/NMD-442-blog/questions1)
