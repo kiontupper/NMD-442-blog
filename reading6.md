@@ -70,3 +70,5 @@ To summarize each step:
  3. Write the details for your UX case study: This is where the writing happens. Explain everything about your project; what you did, why you did it, and what you learned.
  4. Write the UX case study using only headlines: Write a headline for each section. This will help you slim down your case study.
  5. Distill your case study into a shorter version for your UX portfolio: Use the headlines and your draft to write a final, concise version of your case study.
+
+The article concludes with a example of Simon Pan's case study for Uber. This provides a great example of how to apply the principles described in the article.
