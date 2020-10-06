@@ -49,3 +49,24 @@ Overall, I found the first article to be moderately useful, but the other three 
 
 ## Case studies
 
+Case studies are crucial to any portfolio. Not only to they show off your work, they show off your skills, creativity, and know-how.
+
+The article defines 7 parts of a case study:
+
+ 1. Overview
+ 2. Problem statement
+ 3. Users and audience
+ 4. Roles and responsibilities
+ 5. Scope and constraints
+ 6. Process and what you did
+ 7. Outcomes and lessons
+
+The article is very well-written, and something I will refer to frequently in my own case studies. It starts off with a broad overview to give you an overall idea of what a case study looks like, and then breaks down into the details of how to write each section. It does this by splitting the sections into 5 steps.
+
+To summarize each step:
+
+ 1. Give your UX case study a clear title: A good title is specific enough to clearly communicate what your project is. A common mistake is making the title too short. For example, "Home Depot User Research For Mobile App Checkout" is a much better title than "Home Depot."
+ 2. Write an outline for your UX case study: Start with an outline to help you plan the structure of the case study. Define the scope of your case study, and evaluate whether you might want to break it up into multiple projects/case studies in your portfolio.
+ 3. Write the details for your UX case study: This is where the writing happens. Explain everything about your project; what you did, why you did it, and what you learned.
+ 4. Write the UX case study using only headlines: Write a headline for each section. This will help you slim down your case study.
+ 5. Distill your case study into a shorter version for your UX portfolio: Use the headlines and your draft to write a final, concise version of your case study.
