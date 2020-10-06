@@ -1,6 +1,6 @@
-# UX Design Research
+# UX Research
 
-Three articles on UX design research:
+Three articles on UX research:
 
 ## The Complete Guide to UX Research Methods
 
@@ -12,9 +12,9 @@ The breakdown of each method is the best part of the article. The list is thorou
 
 The article continues with a diagram showing how various UX research techniques fit into the iterative design process. Some visual elements of the diagram make little sense, and I would rather have had the list above it be organized into categories, rather than simply listed all at once separately. The notes about "activites" are helpful in figuring out how to accomplish the overall goal of UX research.
 
-The article concludes by summarizing why thorough UX design research is good for business and helps your product succeed. It lays out the objective benefits to UX design research, encouraging more companies, big and small, to invest in it.
+The article concludes by summarizing why thorough UX research is good for business and helps your product succeed. It lays out the objective benefits to UX research, encouraging more companies, big and small, to invest in it.
 
-Overall, I think it's a great article. The qualitative/quantitative distinction is confusing, but the main point of the article—the list of UX research methods—is clear and easy to understand. The diagram about the stages of UX design research helps understand how the abstract concept of "learning from your users" is executed in practice.
+Overall, I think it's a great article. The qualitative/quantitative distinction is confusing, but the main point of the article—the list of UX research methods—is clear and easy to understand. The diagram about the stages of UX research helps understand how the abstract concept of "learning from your users" is executed in practice.
 
 ## Complete Beginner’s Guide to UX Research
 
@@ -32,7 +32,7 @@ This is my second favorite article of the three. It's well-written, thorough, an
 
 > User-centered design requires research.
 
-This article is the best at describing the overarching goal of UX design research. It frames it as the answer to three questions: What do your users want to get done? What are their goals? What are they trying to achieve?
+This article is the best at describing the overarching goal of UX research. It frames it as the answer to three questions: What do your users want to get done? What are their goals? What are they trying to achieve?
 
 It also clarifies that user research starts at the beginning of the project, which is important since it's easy to think you can release a product, slap some Google Analytics on it, and fix it later. But when you hobble something together without doing any research, you can end up taking an entirely wrong direction and you may find yourself needing to start from scratch when it's already too late.
 
