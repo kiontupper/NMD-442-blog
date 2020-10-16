@@ -30,11 +30,11 @@ The article concludes with a example of Simon Pan's case study for Uber. This pr
 
 A case study doesn't simply state what you did over time. It's not a timeline. It's a story. It starts off with a quest, a goal, a mission statement. It discusses the adventures and challenges and successes you faced along the way. And it shows off how you saved the princess in the end.
 
-**Introduction:** *We wanted to _____. The challenges were _____, _____, and _____. It would be better if _____.*
+**Introduction:** <i>We wanted to _____. The challenges were _____, _____, and _____. It would be better if _____.</i>
 
-**Process:** *We looked at _____ and _____. From this, developed personas, including _____, a _____ that wants to _____. ...*
+**Process:** <i>We looked at _____ and _____. From this, developed personas, including _____, a _____ that wants to _____. ...</i>
 
-**Conclusion:** *Our final product was successful because _____. ...*
+**Conclusion:** <i>Our final product was successful because _____. ...</i>
 
 The most important thing about a case study is communication. UX design itself is an exercise in communication, so employers will be expecting your case studies to demonstrate your ability to communicate.
 
