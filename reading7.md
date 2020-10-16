@@ -63,7 +63,9 @@ The only design complaint I have about the website is that they dedicate a whole
 
 Splitwiser is a hobby redesign of the [Splitwise](https://www.splitwise.com) app. This isn't an actual design used by Splitwise.
 
-After a brief introduction, the case study introduces a problem statement: The existing Splitwise app is limited in functionality. It supports splitting equally or by percentages, but does not support more complicated scenarios. He sought out to redesign the app from the ground up and make it more powerful.
+At first glance, I was pretty excited about this app. But as I paid more attention, my excitement died down pretty quickly. You'll see why.
+
+After a brief introduction, the case study introduces a problem statement: The existing Splitwise app is limited in functionality. It supports splitting equally or by percentages, but does not support more complicated scenarios. He sought out to redesign the app from the ground up and make it more powerful. Annoyingly, he _skips all of the research and design process_, and instead opts to show off the design like a car salesman.
 
 First up: the logo. He reached out to the original designer of the logo. Most notably, the previous logo used a house as a visual metaphor, while the new logo uses a coin.
 
@@ -117,16 +119,20 @@ My idea would go like this:
  3. Split the total bill between the participants.
  4. Split the total bill between the payers.
 
-With this sequence, you get the logistics of adding people to the list out of the way right off the bat. Now, you can focus on splitting. It also creates more room to allow advanced splitting options for both participants and payers. By splitting payers after participants, if you decide to split payers based on who they're paying for, you see in real time what the numbers will look like, since the participant split has already been decided by this point. Naturally, the app would skip the payer splitting if only one payer is selected.
+I intentionally separate the _setting up the lists of people_ from _dealing with the numbers_. With this sequence, you get the logistics of adding people to the list out of the way right off the bat. Now, you can focus on splitting. It also creates more room to allow advanced splitting options for both participants and payers. By splitting payers after participants, if you decide to split payers based on who they're paying for, you see in real time what the numbers will look like, since the participant split has already been decided by this point. Naturally, the app would skip the payer splitting if only one payer is selected.
 
 To be fair, I haven't done any UX research either. But my point is that less steps doesn't always mean an easier time. Sure, you _can_ fill out amounts as you go. But in doing so, you are constantly switching between finding the person in the list and figuring out what they're responsible for. This isn't a big deal for one or two payers, but the whole point of this redesign is to provide added flexibility for complex scenarios, isn't it?
 
 Chethan developed a very clever splitting system. 4 options is all you'll really ever need: equal split, percentages, shares, and exact amounts (with a built-in calculator/keypad combo to easily add together multiple line items). But he only applied this to half the equation, and I don't understand why. The added friction when actually arranging the payers detracts from the benefits of the new splitting system for participants. He reduced the number of steps, yes. But by forcing two steps to be one, it really becomes several mini-steps and makes the experience worse. But he knows this! That's why he changed the flow for adding friends to worry about phone numbers and email addresses _after_ everyone has been selected. It makes more sense this way! But he did the reverse for selecting payers, and I don't understand why, except to try to get that flowchart one box smaller.
 
+![](https://miro.medium.com/max/4800/1*6waR5KXpMfdO_SsENDEhhg.png)
+
 In addition to my issues with selecting payers, I also take issue with how this redesign is supposed to be onboarded. Chethan designed _eight_ splash screens that scream at you right as you open the app. He expects users to absorb this all at once, and then figure it out when they actually use the app. I think this could be better accomplished with 1 or 2 splash screens at the most, to hint at users how to get going. Once they're on track, you can show hints to the new features as the user gets to them. Instead, Chethan's solution screams _"Hey we changed everything so you better get used to it! Because as soon as you close this screen you're on your own!"_
+
+![](https://miro.medium.com/max/4800/1*ijCh5T3_QD2AOsNR8A33Gg.png)
 
 ---
 
 Other parts of the design are great. The groups tab redesign makes it much easier to see what's going on at a glance. This extends to the friends page, spending summaries, and expense details. By highlighting the most important information and reducing clutter, the experience becomes smooth like butter. Small adjustments to the activity tab make it more clear and concise. The actual splitting interfaces is great, offering easy ways to split whatever way you could think of, while also being clear, concise, and easy to use. The things that worked well stayed the way they are, and improvements were made where they were needed.
 
-I just wish the payers section was met with the same philosophy. If it ain't broke, don't fix it.
+I just wish the payers section was met with the same philosophy.
