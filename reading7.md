@@ -136,3 +136,26 @@ In addition to my issues with selecting payers, I also take issue with how this 
 Other parts of the design are great. The groups tab redesign makes it much easier to see what's going on at a glance. This extends to the friends page, spending summaries, and expense details. By highlighting the most important information and reducing clutter, the experience becomes smooth like butter. Small adjustments to the activity tab make it more clear and concise. The actual splitting interfaces is great, offering easy ways to split whatever way you could think of, while also being clear, concise, and easy to use. The things that worked well stayed the way they are, and improvements were made where they were needed.
 
 I just wish the payers section was met with the same philosophy.
+
+## Pasión Del Cielo
+
+This case study is annoyingly provided as a few massive images, rather than an accessible, quotable, and more navigable page. But I digress.
+
+The challenge was to create a mobile order experience for the Pasión Del Cielo coffee shop.
+
+Jonathan Montalvo started off by comparing the local coffee shop with their biggest competitor, Starbucks. They commended Starbucks's brand identity, but criticized the digital ordering experience and the quality of their products. Additionally, they looked at two other local competitors and found the digital ordering experience to be lacking.
+
+He saw Pasión as a conventional, accessible coffee shop with a unique local flavor. He follows up with survey results from local coffee shop customers:
+
+ 1. **85%** of respondants were between aged between 17 and 37, confirming the target demographic.
+ 2. **84%** loved the variety of coffee beans available at Pasión, prioritizing this option as a part of the experience.
+ 3. **70%** wanted to learn more about coffee, providing an opportunity to enrich the app.
+ 4. **81%** preferred waiting in line for coffee, which is confusing considering the next part:
+ 5. **64%** said either an app or an in-store kiosk was the most effective way to order.
+
+To gain a clearer picture of this digital-vs-line ordering, he conducted 5 interviews and found one thing in common: they _preferred_ Pasión Del Cielo, but used Starbucks instead for the convenience of ordering from the app.
+
+Armed with this information, he developed a persona: a 35-year-old analyst who prefers Pasión Del Cielo, but needs the ability to order in advance and pick it up on his way to work, since he can't afford to risk waiting in line.
+
+The goal: To create an app that allows users to order their favorite coffee ahead of time, so they can pick it up on their commute with minimal delay.
+
