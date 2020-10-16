@@ -17,7 +17,7 @@
       header {
         position: initial !important;
         width: 300px;
-        padding: 12px !important;
+        padding: 0 12px 0 0 !important;
         box-sizing: border-box;
       }
       a[href]:hover {
@@ -37,6 +37,9 @@
         width: calc(100% - 300px) !important;
       }
       @media print, screen and (max-width: 960px) {
+        header {
+          padding: 0 0 12px 0 !important;
+        }
         section, header {
           width: initial !important;
           max-width: 100% !important;
