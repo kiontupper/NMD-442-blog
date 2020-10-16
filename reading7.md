@@ -94,3 +94,39 @@ The new flow, designed by Chethan is:
  4. Choose how to split
  5. Settle up _within_ the app
 
+The highlight of this case study is step 4, choosing how to split. While Splitwise lets you split equally or by percentage, Splitwis<i>er</i> lets you split equally, by amount, by percentage, or by share. There's also an "adjustment" option, but it's not make clear what this does.
+
+After this, Chethan goes beyond the scope of the Splitwise app, adding accounting featuers in-app payments. You can set due dates for splits, and debts will be tallied up to a running balance, so you know at a glance what you owe others, and what they owe you. Notifications tell you when it's time to settle up. On top of this, another notable feature is the ability to save splits as drafts, making it easier to plan ahead while still being able to adjust as necessary.
+
+---
+
+So what do I think about Splitwiser? I was a little disappointed. The case study doesn't include any UX research, and it shows. The whole case is hard to follow, and took reading it several times before I understood the flow of the app—there's no overall flowchart.
+
+Priorities don't seem to be considered. Chethan fixates on "removing" a step in the process by combining choosing payers with the amounts for the payers. But I think this creates more friction. Let's say you're at a restaurant. You're with 12 friends, and you've decided that everyone should pay for their own food, but it's easier to take three separate bills, say for three different tables. This is how it would work with Splitwiser:
+
+ 1. You start off by adding all of your friends. Once everyone has been selected, invitations are sent to anyone who's not already on the app.
+ 2. You select payers. As you select each one, you have to enter the ammount they will pay before you can move on.
+ 3. Once that's settled, you can choose how to split. In this case, you'd select the "unequally" option and enter the amounts each person owes by what they put on the bill.
+
+I have an issue with step 3 here. You have to enter the amount for each payer before you can continue to add the next one. This makes no sense. Why can't I just select all of the payers, then split payments using the same split UI used for all participants? In fact, it could benefit with another option where you select who's share each payer will be paying for. This way, if you were at 3 different tables, you could have one payer at each table responsible for their table without needing to do extra math or enter the values twice. You could simply select who's behalf the payer is paying on.
+
+My idea would go like this:
+
+ 1. Add all participants.
+ 2. Select which participants are payers.
+ 3. Split the total bill between the participants.
+ 4. Split the total bill between the payers.
+
+With this sequence, you get the logistics of adding people to the list out of the way right off the bat. Now, you can focus on splitting. It also creates more room to allow advanced splitting options for both participants and payers. By splitting payers after participants, if you decide to split payers based on who they're paying for, you see in real time what the numbers will look like, since the participant split has already been decided by this point. Naturally, the app would skip the payer splitting if only one payer is selected.
+
+To be fair, I haven't done any UX research either. But my point is that less steps doesn't always mean an easier time. Sure, you _can_ fill out amounts as you go. But in doing so, you are constantly switching between finding the person in the list and figuring out what they're responsible for. This isn't a big deal for one or two payers, but the whole point of this redesign is to provide added flexibility for complex scenarios, isn't it?
+
+Chethan developed a very clever splitting system. 4 options is all you'll really ever need: equal split, percentages, shares, and exact amounts (with a built-in calculator/keypad combo to easily add together multiple line items). But he only applied this to half the equation, and I don't understand why. The added friction when actually arranging the payers detracts from the benefits of the new splitting system for participants. He reduced the number of steps, yes. But by forcing two steps to be one, it really becomes several mini-steps and makes the experience worse. But he knows this! That's why he changed the flow for adding friends to worry about phone numbers and email addresses _after_ everyone has been selected. It makes more sense this way! But he did the reverse for selecting payers, and I don't understand why, except to try to get that flowchart one box smaller.
+
+In addition to my issues with selecting payers, I also take issue with how this redesign is supposed to be onboarded. Chethan designed _eight_ splash screens that scream at you right as you open the app. He expects users to absorb this all at once, and then figure it out when they actually use the app. I think this could be better accomplished with 1 or 2 splash screens at the most, to hint at users how to get going. Once they're on track, you can show hints to the new features as the user gets to them. Instead, Chethan's solution screams _"Hey we changed everything so you better get used to it! Because as soon as you close this screen you're on your own!"_
+
+---
+
+Other parts of the design are great. The groups tab redesign makes it much easier to see what's going on at a glance. This extends to the friends page, spending summaries, and expense details. By highlighting the most important information and reducing clutter, the experience becomes smooth like butter. Small adjustments to the activity tab make it more clear and concise. The actual splitting interfaces is great, offering easy ways to split whatever way you could think of, while also being clear, concise, and easy to use. The things that worked well stayed the way they are, and improvements were made where they were needed.
+
+I just wish the payers section was met with the same philosophy. If it ain't broke, don't fix it.
