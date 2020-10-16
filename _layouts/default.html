@@ -13,12 +13,26 @@
     <style>
       header {
         position: initial !important;
+        width: 300px;
       }
       header li {
         width: initial !important;
         float: initial !important;
         border-right: initial !important;
         height: initial !important;
+      }
+      .wrapper {
+        width: fit-content !important;
+        max-width: 1100px !important;
+      }
+      section {
+        width: calc(100% - 300px) !important;
+      }
+      @media print, screen and (max-width: 960px) {
+        section, header {
+          width: initial !important;
+          max-width: 100% !important;
+        }
       }
     </style>
   </head>
