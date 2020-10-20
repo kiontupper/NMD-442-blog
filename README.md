@@ -13,3 +13,4 @@
 ## Guest Speakers
 
  1. [Zev Eisenberg](https://kiontupper.github.io/NMD-442-blog/speaker2)
+ 2. [Will Seyffer](https://kiontupper.github.io/NMD-442-blog/speaker3)
