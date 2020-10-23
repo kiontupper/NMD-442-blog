@@ -159,3 +159,18 @@ Armed with this information, he developed a persona: a 35-year-old analyst who p
 
 The goal: To create an app that allows users to order their favorite coffee ahead of time, so they can pick it up on their commute with minimal delay.
 
+The case study goes on to compare mobile app ordering with kiosks, finding that app ordering had a much higher potential demand than a digital kiosk. So, they opted to forgo the kiosk and focus on the app.
+
+The next step is to design a wireframe of the app:
+
+ 1. Choose coffee style
+ 2. Choose bean
+ 3. Select extras (milk, flavors, sweeteners)
+ 4. Choose a time and place to pick up
+ 5. Review order
+ 6. Check out
+ 7. See directions to get there
+
+Interestingly, he designed the app layout first, and then designed the brand and color scheme, and used that to finish the actual UI. I think it resulted in a well-designed and intuitive app.
+
+The case study made great use of UX research, both in terms of market research and competitor analysis, and direct user surveys. He carried his learnings throughout the design process, and I think it resulted in a product that fits its purpose very well.
